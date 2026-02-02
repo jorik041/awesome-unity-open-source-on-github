@@ -1277,6 +1277,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Multiplayer
 
 - [Teleport](https://github.com/debox-dev/Teleport) ![GitHub last commit](https://img.shields.io/github/last-commit/debox-dev/Teleport?logoSize=auto) - A fast, lightweight, pure C# Unity realtime-game-networking framework
+- [PhoenixSharp](https://github.com/Mazyod/PhoenixSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/Mazyod/PhoenixSharp?logoSize=auto) - C# Phoenix Channels client for real-time communication with Elixir/Phoenix servers
 
 ## AI 
 
